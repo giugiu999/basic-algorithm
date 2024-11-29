@@ -1,4 +1,4 @@
-# basic-algorithm
+# basic_algorithm
 Exercises and examples of algorithm content learned in cmput 204
 Thanks for all TAs and Professor Tan's help.
 
